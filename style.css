@@ -1,0 +1,22 @@
+.nav
+{
+    background:black;
+}
+.pad
+{
+    margin-left: 70px;
+    margin-top: 15px;
+}
+@media (max-width: 380px) {
+.col-xs-6
+{
+    width:100%;
+    }
+    }
+  
+ @media (max-width: 180px) {
+
+  .reducefont{
+    font-size: 26px;
+  }
+}
