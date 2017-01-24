@@ -2,6 +2,7 @@
 {
     background:black;
 }
+a.navbar-brand abc
 .pad
 {
     margin-left: 70px;
@@ -19,4 +20,8 @@
   .reducefont{
     font-size: 26px;
   }
+}
+#hr_1{
+  border: 1px;
+  position: relative;
 }
