@@ -22,6 +22,36 @@ a.navbar-brand abc
   }
 }
 #hr_1{
-  border: 1px;
-  position: relative;
+  .nav
+{
+    background:black;
+}
+a.navbar-brand abc
+.pad
+{
+    margin-left: 70px;
+    margin-top: 15px;
+}
+@media (max-width: 380px) {
+.col-xs-6
+{
+    width:100%;
+    }
+    }
+  
+ @media (max-width: 180px) {
+
+  .reducefont{
+    font-size: 26px;
+  }
+}
+#hr_1{
+   margin-top: 3px;
+    height: 1px;
+    border: none;
+    color: #000000 ;
+    background-color: #000;
+    opacity: 0.3;
+    margin-left: 93px;
+    width: 85.5%;
 }
